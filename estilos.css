@@ -1,0 +1,103 @@
+
+
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;;
+    text-transform: uppercase;
+    display: block;
+    font-size: 92px;
+    color: #1fc090;
+    text-shadow: 0 8px 9px #10e7c3, 0px -2px 1px #fff;
+    font-weight: bold;
+    letter-spacing: -4px;
+    text-align: center;
+    border-radius: 20px;
+    position: absolute;
+    top: 10px;
+    left: 250px;
+    
+}
+
+p{
+    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;;
+    padding-left: 10px;
+}
+
+.autores{
+    border: 10px solid #1fc090;
+    box-shadow:  -10px -10px 10px #c1c1c1,
+    10px 10px 10px #ffffff;
+    width: 270px;
+    position: absolute;
+    top: 200px;
+    left: 320px;
+    
+}
+
+.principal{
+    margin-left: 350px;
+    color: 1fc090;
+    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;;
+    position: absolute;
+    top: 500px;
+    left: 10px;
+    
+}
+.buscadores{
+   
+    margin-left: 100px;
+    border: 10px solid #1fc090;
+    box-shadow:  -10px -10px 10px #c1c1c1,
+    10px 10px 10px #ffffff;
+    width: 300px;
+    position: absolute;
+    top: 250px;
+}
+#autor{
+    float:left;
+    margin-left: 100px;
+    border: 10px solid #1fc090;
+    box-shadow:  -10px -10px 10px #c1c1c1,
+    10px 10px 10px #ffffff;
+    width: 300px;
+    position: absolute;
+    top: 250px;
+    
+}
+
+#libros{
+    float:left;
+    margin-left: 50px;
+    border: 10px solid #1fc090;
+    box-shadow:  -10px -10px 10px #c1c1c1,
+    10px 10px 10px #ffffff;
+    width: 300px;
+    margin-top: 0;
+    position: absolute;
+    top: 250px;
+    left: 400px;
+    
+
+}
+
+#contenedor{
+    border: 10px solid #1fc090;
+    box-shadow:  -10px -10px 10px #c1c1c1,
+    10px 10px 10px #ffffff;
+    width: 900px;
+    margin-left: 500px;
+    height: 550px;
+    position:relative;
+    display: inline-block;
+    text-align: center;
+    background-image: 'libro.jpg';
+    background-repeat: no-repeat;
+}
+
+#imagen{
+opacity: 0.3;
+width: 900px;
+height: 550px;
+}
